@@ -8,7 +8,11 @@ Functions
 
 ```python
 def init_request()
+```
+```python
 def login_request(username, password)
+```
+```python
 def register_request(username, password, key)
 ```
 
